@@ -2,6 +2,7 @@
 
 
 Mata Kuliah : Kecerdasan Buatan
+
 Nama Kelompok : Cucur Adabi
 
 1. Rizky Alifiyah Rahma (5025211208)
