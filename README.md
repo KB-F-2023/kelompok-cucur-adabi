@@ -11,6 +11,36 @@
 | 2   | Salsabila Fatma Aripa             | 5025211057 | 
 | 3   | Tsabita Putri Ramadhany           | 5025211130 |
 
+
+# Tugas 1 : BFS dan DFS
+## Deskripsi Tugas
+Menyelesaikan kasus 8-Puzzle, 8-Queen menggunakan BFS dan DFS
+### Output
+- 8-Puzzle BFS
+![Screenshot (2543)](https://github.com/KB-F-2023/kelompok-cucur-adabi/assets/114417418/6a0b2f30-7842-4990-909e-24c62ea601d7)
+
+- 8-Puzzle DFS
+![Screenshot (2544)](https://github.com/KB-F-2023/kelompok-cucur-adabi/assets/114417418/bb92aa88-9e5a-47a3-88f9-6f93c9ef7235)
+
+- 8-Queen BFS
+![Screenshot (2545)](https://github.com/KB-F-2023/kelompok-cucur-adabi/assets/114417418/f4ca65a8-c0bb-431a-aa66-a9b726c7b0ef)
+
+- 8-Queen DFS
+![Screenshot (2546)](https://github.com/KB-F-2023/kelompok-cucur-adabi/assets/114417418/e4aef60c-f276-49a6-afbc-08b072973fae)
+
+
+# Tugas 2 : Informed Search
+## Deskripsi Tugas
+Selesaikan kasus 8-puzzles diatas menggunakan 2 metode informed search 
+H1: banyaknya kotak yang salah penempatan
+H2: Manhatan distance --> jumlah jarak masing-masing kotak ke tujuan
+### Output
+- H1
+![Screenshot (2547)](https://github.com/KB-F-2023/kelompok-cucur-adabi/assets/114417418/67869f60-7b04-4513-a425-a34c2313ef57)
+
+- H2
+![Screenshot (2548)](https://github.com/KB-F-2023/kelompok-cucur-adabi/assets/114417418/29ecc1dc-49ed-4bfb-afda-329aa50e5244)
+
 # Tugas 3 : 8-Queen using Local Search
 ![image](https://user-images.githubusercontent.com/90395116/224132757-806a3ae8-929e-4d9a-9051-07a0ec8ef4d0.png)
 
@@ -152,3 +182,4 @@ else:
 ```
 Berikut ini adalah hasilnya: <br>
 ![image](https://user-images.githubusercontent.com/90395116/224135676-89734a93-0497-47b1-b00a-99ca7aa69791.png)
+
